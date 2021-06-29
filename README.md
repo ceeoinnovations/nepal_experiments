@@ -10,5 +10,4 @@
 4. Upload your files in their own folder under the assets folder 
 5. Get proper links to host your images or videos 
 6. Make sure that anyone with links can view images and videos (check file sharing restrictions). Otherwise, it won't show up on the website
-7.  
-8. Go to your website to make sure that everything looks good. It may take a couple of minutes to get updated.
+7. Go to your website to make sure that everything looks good. It may take a couple of minutes to get updated.
