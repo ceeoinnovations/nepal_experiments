@@ -1,5 +1,5 @@
 ## Links ##
-* [Website](https://ceeoinnovations.github.io/nepal_experiments/){:target="_blank"}
+* [Website](https://ceeoinnovations.github.io/nepal_experiments/)
 * [Projects (Google Sheet)](https://docs.google.com/spreadsheets/d/1U4aBBf9q97-BkLmzNtoMQ_Tocw36zD1ffxsuw3oacZ0/edit?usp=sharing)
 * [Pictures (Google Drive)](https://drive.google.com/drive/folders/18xq9sFrMGJcxWahfgVnIUQOlp_HyYKqn?usp=sharing)
 
